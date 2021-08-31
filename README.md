@@ -13,7 +13,9 @@ The USDA keeps metrics for each feed grain crops supply. These metrics are avail
 
 Of all feed grains in 2020, corn is by far the most prevalent crop with approximately 90.9% of all areas harvested for all feed grains. Corn also accounted for approximately 95.9% of feed grain production in 2020. This staggering dominance has not always been the case. Corn has generally had the lead in total amount harvested (since USDA began keeping records) but not to the current extent.
 
-![image](https://user-images.githubusercontent.com/49574566/131565071-f6c610e7-9ef3-4743-8740-66ca53d12cf6.png)
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/49574566/131565071-f6c610e7-9ef3-4743-8740-66ca53d12cf6.png">
+</p>
 
 ## Feed Grain Crop Disappearance
 
