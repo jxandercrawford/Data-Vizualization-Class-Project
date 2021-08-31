@@ -6,7 +6,9 @@ Feed grains are classified as a crop that is used for feeding livestock (i.e. Ch
 
 Feed grains are a vital part of the United States agriculture industry and have been throughout the years. In 2020 area of feed grains harvested accounted for approximately 4.8% of the continental United States land area. For reference Pennsylvania is approximately 1.5% of the land area of the continental United States.
 
- ![image](https://user-images.githubusercontent.com/49574566/131564955-976831f6-a775-4298-8439-558f869de644.png)
+<p align="center">
+  <img width="920" height="600" src="https://github.com/jxandercrawford/Feed_Grains_Viz/blob/main/land_area.svg">
+</p>
 
 ## Feed Grain Supply
 The USDA keeps metrics for each feed grain crops supply. These metrics are available for download here. This data began being kept fully in 1930. The supply of feed grains is kept in multiple metrics, but the metric used here is the production. The production is the measured amount harvested typically in bushels.
