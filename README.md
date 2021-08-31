@@ -20,11 +20,11 @@ Of all feed grains in 2020, corn is by far the most prevalent crop with approxim
 The USDA keeps metrics for each feed grain crops disappearance or use. These metrics are available for download here. This data began being kept fully in 1975. The disappearance or use of each feed grain crop was broken down into 5 categories. Each category represents a how each crop was used. 
 
 A brief description of each category
- *Food/Alcohol/Industrial: The use of a crop in domestic markets for human consumption.
- *Seed: The use of crop in domestic markets for planting purposes.
- *Feed: The use of a crop in domestic markets for animal consumption.
- *Exports: The exportation a crop to foreign markets.
- *End Stock: The amount of a crop not used in domestic or foreign markets.
+ * Food/Alcohol/Industrial: The use of a crop in domestic markets for human consumption.
+ * Seed: The use of crop in domestic markets for planting purposes.
+ * Feed: The use of a crop in domestic markets for animal consumption.
+ * Exports: The exportation a crop to foreign markets.
+ * End Stock: The amount of a crop not used in domestic or foreign markets.
 
 In recent years the trend for the disappearance of feed grain crops has shown an increase in use for food, alcohol, and industrial purposes and a fall for all other purposes. The usage for feed purposes has dropped drastically across all feed grain crops. The average usage for food, alcohol, and industrial purposes increased by approximately 85.7% while the average usage for feed purposes has fallen approximately 35.2% from the average percent total used in the time spans of 1990 – 2005 to 2005 - 2020.
 
