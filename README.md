@@ -1,10 +1,10 @@
 # Feed Grain Crop Supply and Disappearance
 
-## Abstract
+### Abstract
 
 The United States feed grain industry has comprehensive records kept on metrics such as supply and disappearance. This is a report introducing the sector and analyzing the trends within it using simple descriptive statistics and visualizations. All data used is kept by the United States Department of Agriculture Economic Research Services.
 
-### Table of Contents
+#### Table of Contents
 1. [Introduction](https://github.com/jxandercrawford/Feed_Grains_Viz/blob/main/README.md#introduction)
 2. [Feed Grains](https://github.com/jxandercrawford/Feed_Grains_Viz/blob/main/README.md#feed-grains)
 3. [Feed Grain Supply](https://github.com/jxandercrawford/Feed_Grains_Viz/blob/main/README.md#feed-grain-supply)
