@@ -2,7 +2,7 @@
 
 ### Feed Grains
 
-Feed grains are classified as a crop that is used for feeding livestock (i.e. Chicken, Pigs, Cattle, and etc.). The USDA keeps annual records of the harvest of these crops in the United States. These metrics are collected via sampling done by the USDA. To learn more about how the USDA gathers these metrics visit <a src="https://www.nass.usda.gov/Education_and_Outreach/Understanding_Statistics/pub1554.pdf">here<a>.
+Feed grains are classified as a crop that is used for feeding livestock (i.e. Chicken, Pigs, Cattle, and etc.). The USDA keeps annual records of the harvest of these crops in the United States. These metrics are collected via sampling done by the USDA. To learn more about how the USDA gathers these metrics visit <a href="https://www.nass.usda.gov/Education_and_Outreach/Understanding_Statistics/pub1554.pdf">here<a>.
 
 Feed grains are a vital part of the United States agriculture industry and have been throughout the years. In 2020 area of feed grains harvested accounted for approximately 4.8% of the continental United States land area. For reference Pennsylvania is approximately 1.5% of the land area of the continental United States.
 
