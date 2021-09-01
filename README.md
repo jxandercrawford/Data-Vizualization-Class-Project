@@ -9,7 +9,7 @@ The United Stateas feed grain industry has comprhensive records kept on metrics 
 2. [Feed Grains](https://github.com/jxandercrawford/Feed_Grains_Viz/blob/main/README.md#feed-grains)
 3. [Feed Grain Supply](https://github.com/jxandercrawford/Feed_Grains_Viz/blob/main/README.md#feed-grain-supply)
 4. [Feed Grain Disappearance](https://github.com/jxandercrawford/Feed_Grains_Viz/blob/main/README.md#feed-grain-disappearance)
-5. [Conclusion](https://github.com/jxandercrawford/Feed_Grains_Viz/blob/main/README.md##conclusion)
+5. [Conclusion](https://github.com/jxandercrawford/Feed_Grains_Viz/blob/main/README.md#conclusion)
 
 ## Introduction
 
