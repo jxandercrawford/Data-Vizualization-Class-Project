@@ -14,7 +14,7 @@ The United States feed grain industry has comprehensive records kept on metrics 
 
 ### Introduction
 
-The United States agriculture industry is a staple of the United States industry and dinner tables. It produces numerous communities and accounts for $1.109 trillion of the United States GDP in 2019. Of all communities in the agriculture market, feed grains have always held a considerable amount of market share. But what is the feed grain sector of United States agriculture? How large is the feed grain sector? How are these commodities used? How are these sectors' supply and disappearance evolved over the span of the last 100 years? Using the USDA Economic Research Services Feed Grain Yearbook we can peer into the sector and discover its role in the United States industry.
+The United States agriculture industry is a staple of the United States industry and dinner tables. Farms directly contributed $136.1 billion to the United States GDP in 2019. (Zahniser, 2020) Of all communities in the agriculture market, feed grains have always held a considerable amount of market share. But what is the feed grain sector of United States agriculture? How large is the feed grain sector? How are these commodities used? How are these sectors' supply and disappearance evolved over the span of the last 100 years? Using the USDA Economic Research Services Feed Grain Yearbook we can peer into the sector and discover its role in the United States industry.
 
 ### Feed Grains
 
