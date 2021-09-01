@@ -21,7 +21,7 @@ Of all feed grains in 2020, corn is by far the most prevalent crop with approxim
 
 ## Feed Grain Crop Disappearance
 
-The USDA keeps metrics for each feed grain crops disappearance or use. These metrics are available for download here. This data began being kept fully in 1975. The disappearance or use of each feed grain crop was broken down into 5 categories. Each category represents a how each crop was used. 
+The USDA keeps metrics for each feed grain crops disappearance or use. This data began being kept fully in 1975. The disappearance or use of each feed grain crop was broken down into 5 categories. Each category represents a how each crop was used. 
 
 A brief description of each category
  * Food/Alcohol/Industrial: The use of a crop in domestic markets for human consumption.
