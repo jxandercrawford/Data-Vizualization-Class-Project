@@ -1,8 +1,15 @@
 # Feed Grain Crop Supply and Disappearance
 
-#### Abstract
+## Abstract
 
 The United Stateas feed grain industry has comprhensive records kept on metrics such as supply and disapperance. This is a report introducing the sector and analyzing the trends within it using simple descriptive statistics and visualizations. All data used is kep by the United States Department of Agriculture Economic Research Services.
+
+### Table of Contents
+1. [Introduction](## Introduction)
+2. [Feed Grains](### Feed Grains)
+3. [Feed Grain Supply](## Feed Grain Supply)
+4. [Feed Grain Disappearance](## Feed Grain Disappearance)
+5. [Conclusion] (## Conclusion)
 
 ## Introduction
 
@@ -27,7 +34,7 @@ Of all feed grains in 2020, corn is by far the most prevalent crop with approxim
   <img width="920" height="600" src="https://github.com/jxandercrawford/Feed_Grains_Viz/blob/main/harvest_bubble.svg">
 </p>
 
-## Feed Grain Crop Disappearance
+## Feed Grain Disappearance
 
 The USDA keeps metrics for each feed grain crop's disappearance or use. These metrics are available on data.gov for download <a target="_blank" href="https://catalog.data.gov/dataset/feed-grains-database">here<a>. This data began being kept fully in 1975. The disappearance or use of each feed grain crop was broken down into 5 categories. Each category represents how each crop was used. 
 
