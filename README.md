@@ -28,7 +28,7 @@ Feed grains are a vital part of the United States agriculture industry and have 
 </p>
     
 ### Feed Grain Supply
-The USDA keeps metrics for each feed grain crops supply. These metrics are available on data.gov for download <a target="_blank" href="https://catalog.data.gov/dataset/feed-grains-database">here<a>. This data began being kept fully in 1930. The supply of feed grains is kept in multiple metrics, but the metric used here is the production. The production is the measured amount harvested typically in bushels.
+The USDA keeps metrics for each feed grain crop's supply. These metrics are available on data.gov for download <a target="_blank" href="https://catalog.data.gov/dataset/feed-grains-database">here<a>. This data began being kept fully in 1930. The supply of feed grains is kept in multiple metrics, but the metric used here is the production. The production is the measured amount harvested typically in bushels.
 
 Of all feed grains in 2020, corn is by far the most prevalent crop with approximately 90.9% of the area harvested for all feed grains. Corn also accounted for approximately 95.9% of feed grain production in 2020. This staggering dominance has not always been the case. Corn has generally had the lead in total amount harvested (since USDA began keeping records) but not to the current extent. (McConnell & Capehart, 2021)
 
