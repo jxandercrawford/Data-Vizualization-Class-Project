@@ -25,7 +25,6 @@ Feed grains are a vital part of the United States agriculture industry and have 
 <p align="center">
   <img width="920" height="600" src="https://github.com/jxandercrawford/Feed_Grains_Viz/blob/main/land_area.svg">
 </p>
-
 ### Feed Grain Supply
 The USDA keeps metrics for each feed grain crops supply. These metrics are available on data.gov for download <a target="_blank" href="https://catalog.data.gov/dataset/feed-grains-database">here<a>. This data began being kept fully in 1930. The supply of feed grains is kept in multiple metrics, but the metric used here is the production. The production is the measured amount harvested typically in bushels.
 
@@ -34,7 +33,6 @@ Of all feed grains in 2020, corn is by far the most prevalent crop with approxim
 <p align="center">
   <img width="920" height="600" src="https://github.com/jxandercrawford/Feed_Grains_Viz/blob/main/harvest_bubble.svg">
 </p>
-
 ### Feed Grain Disappearance
 
 The USDA keeps metrics for each feed grain crop's disappearance or use. These metrics are available on data.gov for download <a target="_blank" href="https://catalog.data.gov/dataset/feed-grains-database">here<a>. This data began being kept fully in 1975. The disappearance or use of each feed grain crop was broken down into 5 categories. Each category represents how each crop was used. 
@@ -61,7 +59,6 @@ The radar plots below show the disappearance of feed grain crops harvested by th
 <p align="center">
   <img width="920" height="600" src="https://github.com/jxandercrawford/Feed_Grains_Viz/blob/main/sorghum.svg">
 </p>
-
 ### Conclusion
   
   The feed grain sector of the United States agriculture industry is an expansive trade. It makes up approximately 4.8% of the continental United States land area in 2020. Corn is the largest commodity in the sector account for a large majority of the land area and production in 2020. The evolution of the sector has shown an increased production of corn in the past 90 years. The disappearance of feed grains has also evolved in the past 45 years. The use of which feed grains are named for, feed, is losing its share in the disappearance of the crops. This loss in feed share in the disappearance is paired with an explosion of the use of feed grains for human consumption. These trends have become especially pronounced in the past 30 years.
