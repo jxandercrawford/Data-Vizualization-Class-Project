@@ -1,5 +1,9 @@
 # Feed Grain Crop Supply and Disappearance
 
+### Abstract
+
+The United Stateas feed grain industry has comprhensive records kept on metrics such as supply and disapperance. This is a report introducing the sector and analyzing the trends within it using simple descriptive statistics and visualizations. All data used is kep by the United States Department of Agriculture Economic Research Services.
+
 ## Introduction
 
 The United States agriculture industry is a staple of the United States industry and dinner tables. It produces numerous communities and accounts for $1.109 trillion of the United States GDP in 2019. Of all communities in the agriculture market, feed grains have always held a considerable amount of market share. But what is the feed grain sector of United States agriculture? How large is the feed grain sector? How are these commodities used? How are these sectors' supply and disappearance evolved over the span of the last 100 years? Using the USDA Economic Research Services Feed Grain Yearbook we can peer into the sector and discover its role in the United States industry.
