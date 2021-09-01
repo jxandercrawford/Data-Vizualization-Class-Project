@@ -73,7 +73,7 @@ The radar plots below show the disappearance of feed grain crops harvested by th
     
 # References
 
-<p>McConnell, M., & Capehart, T. (2021, August 17). Feed grains: Yearbook tables. USDA ERS - Feed Grains: Yearbook Tables. https://www.ers.usda.gov/data-products/feed-grains-database/feed-grains-yearbook-tables/#Zipped%20CSV%20files. </p>
+<p>McConnell, M., & Capehart, T. (2021, August 17). &emsp;Feed grains: Yearbook tables. USDA ERS - Feed Grains: Yearbook Tables.< https://www.ers.usda.gov/data-products/feed-grains-database/feed-grains-yearbook-tables/#Zipped%20CSV%20files. </p>
  
 USDA. (n.d.). Inventoried roadless AREA acreage by state. https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fsm8_037652.htm.
     
