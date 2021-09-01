@@ -44,5 +44,4 @@ The radar plots below show the disappearance of feed grain crops harvested by th
 </p>
 <p align="center">
   <img width="920" height="600" src="https://github.com/jxandercrawford/Feed_Grains_Viz/blob/main/sorghum.svg">
-</p>
-
+  </p>
