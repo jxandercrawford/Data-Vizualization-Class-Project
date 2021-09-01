@@ -48,4 +48,8 @@ The radar plots below show the disappearance of feed grain crops harvested by th
 </p>
 <p align="center">
   <img width="920" height="600" src="https://github.com/jxandercrawford/Feed_Grains_Viz/blob/main/sorghum.svg">
-  </p>
+</p>
+
+## Conclusion
+  
+  The feed grain sector of the United States agriculture industry is an expansive trade. It makes up approximatly 4.8% of the continental United States land area.   
