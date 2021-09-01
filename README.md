@@ -2,7 +2,7 @@
 
 ### Feed Grains
 
-Feed grains are classified as a crop that is used for feeding livestock (i.e. Chicken, Pigs, Cattle, and etc.). The USDA keeps annual records of the harvest of these crops in the United States. These metrics are collected via sampling done by the USDA. To learn more about how the USDA gathers these metrics visit <a href="https://www.nass.usda.gov/Education_and_Outreach/Understanding_Statistics/pub1554.pdf">here<a>.
+Feed grains are classified as a crop that is used for feeding livestock (i.e. Chicken, Pigs, Cattle, and etc.). The USDA keeps annual records of the harvest of these crops in the United States. These metrics are collected via sampling done by the USDA. To learn more about how the USDA gathers these metrics visit <a target="_blank" href="https://www.nass.usda.gov/Education_and_Outreach/Understanding_Statistics/pub1554.pdf">here<a>.
 
 Feed grains are a vital part of the United States agriculture industry and have been throughout the years. In 2020 area of feed grains harvested accounted for approximately 4.8% of the continental United States land area. For reference Pennsylvania is approximately 1.5% of the land area of the continental United States.
 
@@ -11,7 +11,7 @@ Feed grains are a vital part of the United States agriculture industry and have 
 </p>
 
 ## Feed Grain Supply
-The USDA keeps metrics for each feed grain crops supply. These metrics are available on data.gov for download <a href="https://catalog.data.gov/dataset/feed-grains-database">here<a>. This data began being kept fully in 1930. The supply of feed grains is kept in multiple metrics, but the metric used here is the production. The production is the measured amount harvested typically in bushels.
+The USDA keeps metrics for each feed grain crops supply. These metrics are available on data.gov for download <a target="_blank" href="https://catalog.data.gov/dataset/feed-grains-database">here<a>. This data began being kept fully in 1930. The supply of feed grains is kept in multiple metrics, but the metric used here is the production. The production is the measured amount harvested typically in bushels.
 
 Of all feed grains in 2020, corn is by far the most prevalent crop with approximately 90.9% of the area harvested for all feed grains. Corn also accounted for approximately 95.9% of feed grain production in 2020. This staggering dominance has not always been the case. Corn has generally had the lead in total amount harvested (since USDA began keeping records) but not to the current extent.
 
@@ -21,7 +21,7 @@ Of all feed grains in 2020, corn is by far the most prevalent crop with approxim
 
 ## Feed Grain Crop Disappearance
 
-The USDA keeps metrics for each feed grain crops disappearance or use. These metrics are available on data.gov for download <a href="https://catalog.data.gov/dataset/feed-grains-database">here<a>. This data began being kept fully in 1975. The disappearance or use of each feed grain crop was broken down into 5 categories. Each category represents a how each crop was used. 
+The USDA keeps metrics for each feed grain crops disappearance or use. These metrics are available on data.gov for download <a target="_blank" href="https://catalog.data.gov/dataset/feed-grains-database">here<a>. This data began being kept fully in 1975. The disappearance or use of each feed grain crop was broken down into 5 categories. Each category represents a how each crop was used. 
 
 A brief description of each category
  * Food/Alcohol/Industrial: The use of a crop in domestic markets for human consumption.
