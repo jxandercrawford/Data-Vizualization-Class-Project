@@ -1,5 +1,9 @@
 # Feed Grain Crop Supply and Disappearance
 
+## Introduction
+
+The United States agriculture industry is a staple of United States industry and dinner tables. It pproduces numerous commonedies and accounts for $1.109 trillion of the United States GDP in 2019. Of all comonidies in the agriculture market the feed grains have always held a considerable amount of market share. But what is the feed grain sector of United States agriculture? How large is the feed grain sector? How are these comondities used? How how is this sectors supply and dissaperance evolved over the span of the last 100 years? Using the USDA Economic Researce Services Feed Grain Year book we can peer into the sector and discover its role in United States industry.
+
 ### Feed Grains
 
 Feed grains are classified as a crop that is used for feeding livestock (i.e. Chicken, Pigs, Cattle, and etc.). The USDA keeps annual records of the harvest of these crops in the United States. These metrics are collected via sampling done by the USDA. To learn more about how the USDA gathers these metrics visit <a href="https://www.nass.usda.gov/Education_and_Outreach/Understanding_Statistics/pub1554.pdf" target="_blank">here<a>.
