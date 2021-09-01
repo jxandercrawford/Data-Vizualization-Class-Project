@@ -36,7 +36,7 @@ The USDA keeps metrics for each feed grain crop's disappearance or use. These me
 
 In recent years the trend for the disappearance of feed grain crops has shown an increase in use for food, alcohol, and industrial purposes and a fall for all other purposes. The usage for feed purposes has dropped drastically across all feed grain crops. The average usage for food, alcohol, and industrial purposes increased by approximately 85.7% while the average usage for feed purposes has fallen approximately 35.2% from the average percent total used in the periods of 1990 – 2005 to 2005 - 2020.
 
-The radar plots below show the disappearance of feed grain crops harvested by the US from the years 1975 – 2020. These charts break down the disappearance into 15-year segments. The use of each crop in each category was averaged over the 15-year period then converted to percent total used for the 15-year span average. (i.e. Food/Alcohol/Industrial usage of barley from the years 1990 – 2005 was approximately %37 of all the barley harvested in those years)
+The radar plots below show the disappearance of feed grain crops harvested by the US from the years 1975 – 2020. These charts break down the disappearance into 15-year segments. The use of each crop in each category was averaged over the 15-year period then converted to percent total used for the 15-year span average. (i.e. Food/Alcohol/Industrial usage of barley from the years 1990 – 2005 was approximately 37% of all the barley harvested in those years)
 <p align="center">
   <img width="920" height="600" src="https://github.com/jxandercrawford/Feed_Grains_Viz/blob/main/barley.svg">
 </p>
