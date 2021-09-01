@@ -67,10 +67,3 @@ The radar plots below show the disappearance of feed grain crops harvested by th
   The feed grain sector of the United States agriculture industry is an expansive trade. It makes up approximately 4.8% of the continental United States land area in 2020. Corn is the largest commodity in the sector account for a large majority of the land area and production in 2020. The evolution of the sector has shown an increased production of corn in the past 90 years. The disappearance of feed grains has also evolved in the past 45 years. The use of which feed grains are named for, feed, is losing its share in the disappearance of the crops. This loss in feed share in the disappearance is paired with an explosion of the use of feed grains for human consumption. These trends have become especially pronounced in the past 30 years.
 
     
-    
-# Works Cited
-    
-McConnell, M., &amp; Capehart, T. (2021, August 17). Feed grains: Yearbook tables. USDA ERS - Feed Grains: Yearbook Tables. https://www.ers.usda.gov/data-&nbsp;&nbsp;&nbsp;&nbsp;products/feed-grains-database/feed-grains-yearbook-tables/#Zipped%20CSV%20files. 
-USDA. (n.d.). Inventoried roadless AREA acreage by state. https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fsm8_037652.htm. 
-Vogel, F. A., &amp; Bange, G. A. (1999). Understanding Crop Statistics.  U.S. Department of Agriculture, 1554. 
-Zahniser, S. (2020, October 15). What is Agriculture's share of the overall U.S. economy? USDA ERS - Chart Detail. https://www.ers.usda.gov/data-products/chart-gallery/gallery/chart-detail/?chartId=58270. 
