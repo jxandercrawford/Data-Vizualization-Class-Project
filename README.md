@@ -11,7 +11,7 @@ The United States feed grain industry has comprehensive records kept on metrics 
 4. [Feed Grain Disappearance](https://github.com/jxandercrawford/Feed_Grains_Viz/blob/main/README.md#feed-grain-disappearance)
 5. [Conclusion](https://github.com/jxandercrawford/Feed_Grains_Viz/blob/main/README.md#conclusion)
 
-## Introduction
+### Introduction
 
 The United States agriculture industry is a staple of the United States industry and dinner tables. It produces numerous communities and accounts for $1.109 trillion of the United States GDP in 2019. Of all communities in the agriculture market, feed grains have always held a considerable amount of market share. But what is the feed grain sector of United States agriculture? How large is the feed grain sector? How are these commodities used? How are these sectors' supply and disappearance evolved over the span of the last 100 years? Using the USDA Economic Research Services Feed Grain Yearbook we can peer into the sector and discover its role in the United States industry.
 
@@ -34,7 +34,7 @@ Of all feed grains in 2020, corn is by far the most prevalent crop with approxim
   <img width="920" height="600" src="https://github.com/jxandercrawford/Feed_Grains_Viz/blob/main/harvest_bubble.svg">
 </p>
 
-## Feed Grain Disappearance
+### Feed Grain Disappearance
 
 The USDA keeps metrics for each feed grain crop's disappearance or use. These metrics are available on data.gov for download <a target="_blank" href="https://catalog.data.gov/dataset/feed-grains-database">here<a>. This data began being kept fully in 1975. The disappearance or use of each feed grain crop was broken down into 5 categories. Each category represents how each crop was used. 
 
@@ -61,6 +61,6 @@ The radar plots below show the disappearance of feed grain crops harvested by th
   <img width="920" height="600" src="https://github.com/jxandercrawford/Feed_Grains_Viz/blob/main/sorghum.svg">
 </p>
 
-## Conclusion
+### Conclusion
   
   The feed grain sector of the United States agriculture industry is an expansive trade. It makes up approximately 4.8% of the continental United States land area in 2020. Corn is the largest commodity in the sector account for a large majority of the land area and production in 2020. The evolution of the sector has shown an increased production of corn in the past 90 years. The disappearance of feed grains has also evolved in the past 45 years. The use of which feed grains are named for, feed, is losing its share in the disappearance of the crops. This loss in feed share in the disappearance is paired with an explosion of the use of feed grains for human consumption. These trends have become especially pronounced in the past 30 years.
