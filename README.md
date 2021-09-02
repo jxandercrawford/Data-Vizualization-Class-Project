@@ -51,16 +51,16 @@ In recent years the trend for the disappearance of feed grain crops has shown an
 
 The radar plots below show the disappearance of feed grain crops harvested by the US from the years 1975 – 2020. These charts break down the disappearance into 15-year segments. The use of each crop in each category was averaged over the 15-year period then converted to percent total used for the 15-year span average. (i.e. Food/Alcohol/Industrial usage of barley from the years 1990 – 2005 was approximately 37% of all the barley harvested in those years)
 <p align="center">
-  <img width="920" height="600" src="https://github.com/jxandercrawford/Feed_Grains_Viz/blob/main/barley.svg">
+  <img width="920" height="100%" src="https://github.com/jxandercrawford/Feed_Grains_Viz/blob/main/barley.svg">
 </p>
 <p align="center">
-  <img width="920" height="600" src="https://github.com/jxandercrawford/Feed_Grains_Viz/blob/main/corn.svg">
+  <img width="920" height="100%" src="https://github.com/jxandercrawford/Feed_Grains_Viz/blob/main/corn.svg">
 </p>
 <p align="center">
-  <img width="920" height="600" src="https://github.com/jxandercrawford/Feed_Grains_Viz/blob/main/oats.svg">
+  <img width="920" height="100%" src="https://github.com/jxandercrawford/Feed_Grains_Viz/blob/main/oats.svg">
 </p>
 <p align="center">
-  <img width="920" height="600" src="https://github.com/jxandercrawford/Feed_Grains_Viz/blob/main/sorghum.svg">
+  <img width="920" height="100%" src="https://github.com/jxandercrawford/Feed_Grains_Viz/blob/main/sorghum.svg">
 </p>
     
 ### Conclusion
