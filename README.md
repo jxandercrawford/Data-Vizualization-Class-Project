@@ -24,7 +24,7 @@ Feed grains are classified as a crop that is used for feeding livestock (i.e. Ch
 Feed grains are a vital part of the United States agriculture industry and have been throughout the years. In 2020 area of feed grains harvested accounted for approximately 4.7% of the continental United States land area. For reference, Pennsylvania is approximately 1.5% of the land area of the continental United States.
 
 <p align="center">
-  <img width="920" height="600" src="https://github.com/jxandercrawford/Feed_Grains_Viz/blob/main/land_area.svg">
+  <img width="920" height="100%" src="https://github.com/jxandercrawford/Feed_Grains_Viz/blob/main/land_area.svg">
 </p>
     
 ### Feed Grain Supply
@@ -33,7 +33,7 @@ The USDA keeps metrics for each feed grain crop's supply. These metrics are avai
 Of all feed grains in 2020, corn is by far the most prevalent crop with approximately 90.9% of the area harvested for all feed grains. Corn also accounted for approximately 95.9% of feed grain production in 2020. This staggering dominance has not always been the case. Corn has generally had the lead in total amount harvested (since USDA began keeping records) but not to the current extent. (McConnell & Capehart, 2021)
 
 <p align="center">
-  <img width="920" height="600" src="https://github.com/jxandercrawford/Feed_Grains_Viz/blob/main/harvest_bubble.svg">
+  <img width="920" height="100%" src="https://github.com/jxandercrawford/Feed_Grains_Viz/blob/main/harvest_bubble.svg">
 </p>
     
 ### Feed Grain Disappearance
