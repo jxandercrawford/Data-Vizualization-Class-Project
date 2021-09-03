@@ -11,6 +11,7 @@ The United States feed grain industry has comprehensive records kept on metrics 
 4. [Feed Grain Disappearance](https://github.com/jxandercrawford/Feed_Grains_Viz/blob/main/README.md#feed-grain-disappearance)
     1. [Disapperance Catagories](https://github.com/jxandercrawford/Feed_Grains_Viz/blob/main/README.md#a-brief-description-of-each-category)
 5. [Conclusion](https://github.com/jxandercrawford/Feed_Grains_Viz/blob/main/README.md#conclusion)
+6. [Refrences](https://github.com/jxandercrawford/Feed_Grains_Viz/blob/main/README.md#references)
 
 ### Introduction
 
@@ -23,16 +24,16 @@ Feed grains are classified as a crop that is used for feeding livestock (i.e. Ch
 Feed grains are a vital part of the United States agriculture industry and have been throughout the years. In 2020 area of feed grains harvested accounted for approximately 4.7% of the continental United States land area. For reference, Pennsylvania is approximately 1.5% of the land area of the continental United States.
 
 <p align="center">
-  <img width="920" height="600" src="https://github.com/jxandercrawford/Feed_Grains_Viz/blob/main/land_area.svg">
+  <img width="920" height="100%" src="https://github.com/jxandercrawford/Feed_Grains_Viz/blob/main/land_area.svg">
 </p>
     
 ### Feed Grain Supply
-The USDA keeps metrics for each feed grain crops supply. These metrics are available on data.gov for download <a target="_blank" href="https://catalog.data.gov/dataset/feed-grains-database">here<a>. This data began being kept fully in 1930. The supply of feed grains is kept in multiple metrics, but the metric used here is the production. The production is the measured amount harvested typically in bushels.
+The USDA keeps metrics for each feed grain crop's supply. These metrics are available on data.gov for download <a target="_blank" href="https://catalog.data.gov/dataset/feed-grains-database">here<a>. This data began being kept fully in 1930. The supply of feed grains is kept in multiple metrics, but the metric used here is the production. The production is the measured amount harvested typically in bushels.
 
 Of all feed grains in 2020, corn is by far the most prevalent crop with approximately 90.9% of the area harvested for all feed grains. Corn also accounted for approximately 95.9% of feed grain production in 2020. This staggering dominance has not always been the case. Corn has generally had the lead in total amount harvested (since USDA began keeping records) but not to the current extent. (McConnell & Capehart, 2021)
 
 <p align="center">
-  <img width="920" height="600" src="https://github.com/jxandercrawford/Feed_Grains_Viz/blob/main/harvest_bubble.svg">
+  <img width="920" height="100%" src="https://github.com/jxandercrawford/Feed_Grains_Viz/blob/main/harvest_bubble.svg">
 </p>
     
 ### Feed Grain Disappearance
@@ -50,27 +51,30 @@ In recent years the trend for the disappearance of feed grain crops has shown an
 
 The radar plots below show the disappearance of feed grain crops harvested by the US from the years 1975 – 2020. These charts break down the disappearance into 15-year segments. The use of each crop in each category was averaged over the 15-year period then converted to percent total used for the 15-year span average. (i.e. Food/Alcohol/Industrial usage of barley from the years 1990 – 2005 was approximately 37% of all the barley harvested in those years)
 <p align="center">
-  <img width="920" height="600" src="https://github.com/jxandercrawford/Feed_Grains_Viz/blob/main/barley.svg">
+  <img width="920" height="100%" src="https://github.com/jxandercrawford/Feed_Grains_Viz/blob/main/barley.svg">
 </p>
 <p align="center">
-  <img width="920" height="600" src="https://github.com/jxandercrawford/Feed_Grains_Viz/blob/main/corn.svg">
+  <img width="920" height="100%" src="https://github.com/jxandercrawford/Feed_Grains_Viz/blob/main/corn.svg">
 </p>
 <p align="center">
-  <img width="920" height="600" src="https://github.com/jxandercrawford/Feed_Grains_Viz/blob/main/oats.svg">
+  <img width="920" height="100%" src="https://github.com/jxandercrawford/Feed_Grains_Viz/blob/main/oats.svg">
 </p>
 <p align="center">
-  <img width="920" height="600" src="https://github.com/jxandercrawford/Feed_Grains_Viz/blob/main/sorghum.svg">
+  <img width="920" height="100%" src="https://github.com/jxandercrawford/Feed_Grains_Viz/blob/main/sorghum.svg">
 </p>
     
 ### Conclusion
   
   The feed grain sector of the United States agriculture industry is an expansive trade. It makes up approximately 4.8% of the continental United States land area in 2020. Corn is the largest commodity in the sector account for a large majority of the land area and production in 2020. The evolution of the sector has shown an increased production of corn in the past 90 years. The disappearance of feed grains has also evolved in the past 45 years. The use of which feed grains are named for, feed, is losing its share in the disappearance of the crops. This loss in feed share in the disappearance is paired with an explosion of the use of feed grains for human consumption. These trends have become especially pronounced in the past 30 years.
+  
+### <a href="https://github.com/jxandercrawford/Feed_Grains_Viz/blob/main/works_cited.jpg">References<a>
+    
+<p>McConnell, M., & Capehart, T. (2021, August 17). Feed grains: Yearbook tables. USDA ERS - Feed Grains: Yearbook Tables<br>&emsp;&emsp;https://www.ers.usda.gov/data-products/feed-grains-database/feed-grains-yearbook-tables/#Zipped%20CSV%20files.</p>
+ 
+USDA. (n.d.). Inventoried roadless AREA acreage by state. https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fsm8_037652.htm.
+    
+Vogel, F. A., & Bange, G. A. (1999). Understanding Crop Statistics.  U.S. Department of Agriculture, 1554. 
+    
+Zahniser, S. (2020, October 15). What is Agriculture's share of the overall U.S. economy? USDA ERS - Chart Detail.<br>&emsp;&emsp;https://www.ers.usda.gov/data-products/chart-gallery/gallery/chart-detail/?chartId=58270. 
 
-    
-    
-# Works Cited
-    
-McConnell, M., &amp; Capehart, T. (2021, August 17). Feed grains: Yearbook tables. USDA ERS - Feed Grains: Yearbook Tables. https://www.ers.usda.gov/data-&nbsp;&nbsp;&nbsp;&nbsp;products/feed-grains-database/feed-grains-yearbook-tables/#Zipped%20CSV%20files. 
-USDA. (n.d.). Inventoried roadless AREA acreage by state. https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fsm8_037652.htm. 
-Vogel, F. A., &amp; Bange, G. A. (1999). Understanding Crop Statistics.  U.S. Department of Agriculture, 1554. 
-Zahniser, S. (2020, October 15). What is Agriculture's share of the overall U.S. economy? USDA ERS - Chart Detail. https://www.ers.usda.gov/data-products/chart-gallery/gallery/chart-detail/?chartId=58270. 
+
