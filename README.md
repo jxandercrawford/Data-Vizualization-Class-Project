@@ -1,4 +1,4 @@
-*Note: This was a class project to produce a report on a chosen dataset*
+*Note: This was a class project to produce a report on a chosen dataset that was completed in September of 2021*
 
 # Feed Grain Crop Supply and Disappearance
 
